@@ -4,4 +4,4 @@ This is Deepthi :smile:
 
 I am a Sophomore pursuing Bachelors in Computer Science and Engineering.
 
-Currently the profile is under construction :construction:
+This profile is under construction :construction:
